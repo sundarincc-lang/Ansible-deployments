@@ -17,3 +17,8 @@ Hereâ€™s a visual comparison to help you decide which fits your workflow best ðŸ
 #DevOps #Ansible #Automation #InfrastructureAsCode #CloudComputing #ConfigurationManagement #TechLeadership #LinkedInLearning
 
 
+
+![image_alt](https://github.com/sundarincc-lang/SnowFlake_Expertise/blob/d665303954dd93b7425426fb6f5e1d4bb6a8ec37/Series/snowflake_architecture.png)
+
+
+
